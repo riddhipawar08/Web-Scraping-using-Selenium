@@ -1,0 +1,2 @@
+python==3.9.6
+Selenium==4.29.0
