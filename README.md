@@ -1,10 +1,10 @@
 <h2>🌐 Web Scraping IndiaMART using Selenium </h2>
-<h4>Overview</h4> 
+<h3>Overview</h3> 
 This Python script automates web scraping on IndiaMART to extract seller details, including phone numbers, company names, and locations.  
 It simulates user interactions, such as clicking buttons and scrolling, to reveal hidden data.
 <br>
 
-<h4>Features</h4>
+<h3>Features</h3>
 ✔️ Automated product search based on user input  <br>
 ✔️ Extracts phone numbers, company names, and locations  <br>
 ✔️ Clicks "View Mobile Number" buttons to reveal contact details <br> 
@@ -13,7 +13,7 @@ It simulates user interactions, such as clicking buttons and scrolling, to revea
 ✔️ Saves full HTML page for debugging  
 <br>
 
-<h4>Tech Stack</h4>
+<h3>Tech Stack</h3>
 - Python  <br>
 - Selenium (for web automation)   <br> 
 - Chrome WebDriver 
